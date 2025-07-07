@@ -11,3 +11,6 @@ Professional with a degree in Computer Science and Systems Analysis and Developm
 I have 2 years of experience in web development, and I am always constantly seeking technical updates and improvements.
 
 "Any sufficiently advanced technology is indistinguishable from magic 🧙"
+
+## Portfolio
+https://portfolio-leonardo-leal.vercel.app/
