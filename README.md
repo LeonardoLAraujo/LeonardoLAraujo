@@ -13,4 +13,4 @@ I have 2 years of experience in web development, and I am always constantly seek
 "Any sufficiently advanced technology is indistinguishable from magic 🧙"
 
 ## Portfolio
-https://portfolio-leonardo-leal.vercel.app/
+<a href="https://portfolio-leonardo-leal.vercel.app/" target="_blank">My Portfolio</a>
