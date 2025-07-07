@@ -7,6 +7,7 @@
 
 Enthusiast of the technologies of Software and Web development.
 
-I'm from Brazil, Student of Computer Science and System Analysis and development, always learning more about the Technological world.
+Professional with a degree in Computer Science and Systems Analysis and Development. 
+I have 2 years of experience in web development, and I am always constantly seeking technical updates and improvements.
 
 "Any sufficiently advanced technology is indistinguishable from magic 🧙"
