@@ -1,15 +1,15 @@
-# Leonardo Leal
+# 👨‍💻 Leonardo Leal
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Leal-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-leal-ara%C3%BAjo-2653b91b9/)](https://www.linkedin.com/in/leonardo-leal-ara%C3%BAjo-2653b91b9/) 
 ![Gmail Badge](https://img.shields.io/badge/-leonardoleal018@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardoleal018@gmail.com)
 
 
-# 👨‍💻 Leonardo Leal
-
 Full Stack Developer passionate about building scalable web systems, intelligent automation, and data-driven solutions.
 
-I hold a Bachelor's degree in Computer Science and a degree in Systems Analysis and Development. Currently working as a Web Developer at Associação Educacional Nove de Julho (UNINOVE), developing corporate systems, interactive dashboards, and complex web applications within an academic ecosystem.
+I hold a Bachelor's degree in Computer Science and a degree in Systems Analysis and Development. Currently working as a Developer at **BeAliant**, building and supporting ethics and whistleblowing platforms for corporate clients, from technical implementation to client-facing support.
+
+Previously, I worked as a Web Developer at Associação Educacional Nove de Julho (UNINOVE), developing corporate systems, interactive dashboards, and complex web applications within an academic ecosystem.
 
 My main expertise lies in **TypeScript**, **Web Components**, and modular architecture using **Object-Oriented Programming (OOP)**.
 
@@ -17,7 +17,7 @@ In addition to front-end development, I use **Python** alongside web technologie
 
 I also design REST APIs using **Node.js/PHP**, structure **MySQL** databases, and apply clean architecture principles in scalable systems.
 
-Currently pursuing a postgraduate degree in **Data Science & Analytics**, expanding my knowledge in data-driven decision making and analytical systems.
+Currently pursuing a postgraduate degree (MBA) in **Data Science & Analytics** at UNINOVE, expanding my knowledge in data-driven decision making and analytical systems.
 
 ---
 
